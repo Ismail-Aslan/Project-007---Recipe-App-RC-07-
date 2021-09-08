@@ -1,0 +1,29 @@
+.navbar-container{
+    width: 100%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-self: center;
+    background-color: olivedrab;
+}
+.nav-element {
+    align-self: center;
+    text-decoration: none;
+    padding: 3vh 15px;
+    color: white;
+}
+.left-nav {
+    
+   
+    
+    
+}
+.right-nav {
+  
+    
+}
+.right-nav-element {
+    text-decoration: none;
+    padding: 10px;
+    color: inherit;
+}
